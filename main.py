@@ -6,7 +6,7 @@ from Tabs import diagnosis, home, result,  kc, talk2doc
 # Configure the app
 st.set_page_config(
     page_title = 'Renal Healthcare Program',
-    page_icon = '🥯',
+    page_icon = '🫗',
     layout = 'wide',
     initial_sidebar_state = 'auto'
 )
