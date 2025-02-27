@@ -1,4 +1,4 @@
-# DHCP - Renal Health Care Programme
+# RHCP - Renal Health Care Programme
 
 
 Kidney disease is a chronic (long-lasting) health condition that affects how well your kidneys filter waste and excess fluids from your blood.
