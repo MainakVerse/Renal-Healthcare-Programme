@@ -1,9 +1,8 @@
-# DHCP - Diabetes Health Care Programme
+# DHCP - Renal Health Care Programme
 
 
-https://github.com/user-attachments/assets/bbc1fe6c-6ac4-480c-a332-9d2aefdf23d3
-
-DHCP or Diabetes Health Care Programme is an integrated healthcare application focused on Diabetes and its health implications. Unlike normal detection or prediction software, DHCP uses Generative AI (Gemini) which produces responses and data in real time. What more? You get a completely interactive and real-time chatbot named Capsule. You have any doubts regarding symptoms, medical dosage, health implications, side effects or anything that comes to your mind, Capsule will answer you tirelessly.
+Kidney disease is a chronic (long-lasting) health condition that affects how well your kidneys filter waste and excess fluids from your blood.
+There isn’t a complete cure yet for kidney disease, but maintaining a healthy lifestyle, eating a balanced diet, staying hydrated, and managing underlying conditions like diabetes and high blood pressure can help slow its progression. This Web app will help you predict whether a person has kidney disease or is at risk of developing it in the future by analyzing several health parameters using the Random Forest Classifier.
 
 ## Tech Used:
 - Python (3.12 or higher)
@@ -17,5 +16,4 @@ DHCP or Diabetes Health Care Programme is an integrated healthcare application f
 - Ask Query
 - Diagnosis
 - Result Visualization
-- Knowledge Center (Upcoming)
-- Suggestion Box (Upcoming)
+- Knowledge Centre
